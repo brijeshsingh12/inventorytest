@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Inventory Management System", ".", "{3D2E8999-585C-4B34-B954-D170A4401FA6}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		ProjectReferences = ""
+		Debug.AspNetCompiler.VirtualPath = "/Inventory Management System"
+		Debug.AspNetCompiler.PhysicalPath = "..\Inventory Management System\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Inventory Management System\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Inventory Management System"
+		Release.AspNetCompiler.PhysicalPath = "..\Inventory Management System\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Inventory Management System\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "1481"
+		SlnRelativePath = "..\Inventory Management System\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D2E8999-585C-4B34-B954-D170A4401FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2E8999-585C-4B34-B954-D170A4401FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2E8999-585C-4B34-B954-D170A4401FA6}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2E8999-585C-4B34-B954-D170A4401FA6}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6703CF9D-6D98-4CC0-B614-A33C5AC4E95B}
+	EndGlobalSection
+EndGlobal
